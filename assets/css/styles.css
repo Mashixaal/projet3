@@ -5,3 +5,7 @@
 .text-brown {
     color: brown;
 }
+
+.flex-center {
+    justify-content: center;
+}
