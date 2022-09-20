@@ -6,10 +6,11 @@
     color: brown;
 }
 
-.flex-center {
+.justify-center {
     justify-content: center;
 }
 
 .text-yellow {
     color: yellow;
 }
+
